@@ -63,8 +63,9 @@ Sistema completo para gerenciamento de distribuição de suprimentos em ambiente
 ### 📊 Estatísticas do GitHub
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianMaia&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChristianMaia&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianMaia" alt="Streak do GitHub" />
 </p>
