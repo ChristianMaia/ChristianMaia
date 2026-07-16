@@ -45,19 +45,6 @@ Sistema inteligente de monitoramento para instituições de cuidado ao idoso, co
 - Testes automatizados end-to-end (**Playwright**) e testes de carga/performance (**K6**)
 - `#Java` `#SpringBoot` `#React` `#MUI` `#IoT`
 
-#### 📦 Sistema de Inventário de Eletrônicos
-Sistema de controle de estoque com autenticação JWT e alertas automáticos de estoque baixo.
-- Modelagem relacional com JPA (produtos, categorias, usuários e cargos)
-- Controle de entrada e saída de produtos
-- Renderização condicional de UI com base em papéis (roles)
-- `#Java` `#SpringBoot` `#MySQL` `#React`
-
-#### 🏥 Gestão de Distribuição de Suprimentos Hospitalares
-Sistema completo para gerenciamento de distribuição de suprimentos em ambiente hospitalar.
-- Back-end com entidades, repositórios, serviços, controllers, Swagger e configuração JWT
-- Front-end em React com MUI, contexto de autenticação e interceptores Axios
-- `#Java` `#SpringBoot` `#React` `#MySQL`
-
 ---
 
 ### 📊 Estatísticas do GitHub
